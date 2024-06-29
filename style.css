@@ -1,0 +1,14 @@
+
+body{
+    background-color: black;
+}
+div {
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+    margin-left: 25;
+    
+}
+#ManPunching-Computer {
+    border: 5px solid white;
+}
